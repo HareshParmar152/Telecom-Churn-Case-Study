@@ -1,5 +1,7 @@
 # Telecom Churn using Machine Learning
 
+Data source : https://drive.google.com/file/d/1a4fRfsE5OX_IUAywAkqPAmAWEe9DRW4D/view?usp=sharing
+
 The "Predicting Telecom Churn using Machine Learning" project aims to leverage advanced machine learning techniques to predict and mitigate customer churn in the telecom industry. Churn, or the rate at which customers switch service providers, can significantly impact a telecom company's revenue and market position. By developing predictive models, this project aims to assist telecom companies in proactively identifying potential churners and implementing targeted retention strategies.
 
 Key Objectives:
