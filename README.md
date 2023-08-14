@@ -1,4 +1,4 @@
-# Telecom Churn using Machine Learning
+# Telecom Churn Predication using Machine Learning
 
 Data source : https://drive.google.com/file/d/1a4fRfsE5OX_IUAywAkqPAmAWEe9DRW4D/view?usp=sharing
 
